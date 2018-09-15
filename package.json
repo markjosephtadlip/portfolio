@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Mark Joseph Tadlip's responsive website portfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Mark Joseph Tadlip",
+  "license": "ISC",
+  "homepage": "https://markjosephtadlip.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "1.2.0"
+  }
+}
